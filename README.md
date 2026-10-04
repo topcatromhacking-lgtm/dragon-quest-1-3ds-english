@@ -4,7 +4,7 @@ An English patch for the Japanese Nintendo 3DS release of Dragon Quest I, assemb
 
 ## Status
 
-Beta testing. Early gameplay has been tested in Azahar, including conversations, battles, shopping, the inn, leveling up, and saving. A full playthrough and testing on real Nintendo 3DS hardware remain pending.
+**Beta v0.90.** Early gameplay has been tested in Azahar, including conversations, battles, shopping, the inn, leveling up, and saving. A full playthrough and testing on real Nintendo 3DS hardware remain pending.
 
 ## What is translated
 
@@ -16,7 +16,7 @@ Some text exceeds its intended space. Further testing is needed to identify rema
 
 ## Downloads and installation
 
-[**Download the DQ1 English beta patch**](https://github.com/topcatromhacking-lgtm/dragon-quest-1-3ds-english/raw/refs/heads/main/downloads/DQ1_3DS_English_Beta.zip)
+[**Download the DQ1 English beta patch**](https://github.com/topcatromhacking-lgtm/dragon-quest-1-3ds-english/releases/download/v0.90/DQ1_3DS_English_v0.9_Beta_TopCatHack.zip)
 
 You need your own copy of the Japanese Nintendo 3DS game, Title ID `00040000001C3700`. The same patch files work with Azahar and Luma3DS. The ZIP includes detailed instructions in `README.txt`.
 
@@ -48,7 +48,7 @@ Stop the game before replacing files and back up your normal saves. Remove an ol
 
 ### Package checksum
 
-SHA-256 for `DQ1_3DS_English_Beta.zip`:
+SHA-256 for `DQ1_3DS_English_v0.9_Beta_TopCatHack.zip`:
 
 ```text
 ad98824932766d65293880638b7944ceea7c615f1bef0004da72a08ca46253cc
